@@ -1,6 +1,7 @@
-.. _usecase_datastore:
+.. ATTN: Link used in clone() docstring
+.. _usecase-scalable-datastore:
 
-Building a scalable data storage for scientific computing
+Building a scalable data store for scientific computing
 ---------------------------------------------------------
 
 Research can require enormous amounts of data. Such data needs to be accessed by
