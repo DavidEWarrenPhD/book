@@ -1,6 +1,6 @@
 .. ATTN: Link used in clone() docstring
-.. _usecase-scalable-datastore:
 .. _RIA:
+.. _usecase-scalable-datastore:
 
 Building a scalable data store for scientific computing
 ---------------------------------------------------------
