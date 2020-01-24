@@ -161,7 +161,7 @@ about where data are stored, as they can access it just as easily as before.
 
 The machines in question, parts of an old compute cluster, and parts of the
 supercomputer at the JSC are configured to receive and store data using the
-git-annex remote for indexed file archives (`RIA <https://libraries.io/pypi/ria-remote>`_)
+git-annex remote for indexed file archives (`RIA <https://libraries.io/pypi/ria-remote>`__)
 special remote. The git-annex RIA-remote is similar to git-annex's built-in
 `directory <https://git-annex.branchable.com/special_remotes/directory/>`_
 special remote, but distinct in certain aspects:
